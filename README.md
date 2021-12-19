@@ -1,4 +1,4 @@
-# workdayScheduler
+# workDay-Scheduler
 
 ## User Story
 AS AN employee with a busy schedule
@@ -22,6 +22,6 @@ THEN the saved events persist
 
 #### Links
 GitHub:
-
+https://github.com/ragil1114/workdayScheduler.git
 
 URL:
