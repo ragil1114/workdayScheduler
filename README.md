@@ -25,3 +25,4 @@ GitHub:
 https://github.com/ragil1114/workdayScheduler.git
 
 URL:
+https://ragil1114.github.io/workdayScheduler/
