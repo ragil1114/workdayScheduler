@@ -28,3 +28,5 @@ URL:
 https://ragil1114.github.io/workdayScheduler/
 
 ##### Images
+https://github.com/ragil1114/workdayScheduler/blob/main/assets/images/demo.png
+https://github.com/ragil1114/workdayScheduler/blob/main/assets/images/demo2.png
